@@ -31,6 +31,9 @@ CRM Project Create
 This module extends the functionality of crm and project and allow you
 to create a project from opportunity or lead.
 
+It also allows archiving or reactivating the project and its analytical
+account from the lead.
+
 .. IMPORTANT::
    This is an alpha version, the data model and design can change at any time without warning.
    Only for development or testing purpose, do not use in production.
@@ -89,6 +92,7 @@ Contributors
 ------------
 
 -  Emilio Pascual (`Moduon <https://www.moduon.team/>`__)
+-  Eduardo López (`Moduon <https://www.moduon.team/>`__)
 
 Maintainers
 -----------
